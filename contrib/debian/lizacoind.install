@@ -1,0 +1,2 @@
+debian/bin/lizacoind usr/bin
+src/lizacoind usr/lib/lizacoin

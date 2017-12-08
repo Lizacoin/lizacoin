@@ -1,0 +1,5 @@
+lizacoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/lizacoin-qt.desktop usr/share/applications
+debian/lizacoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,9 @@
+Building Lizacoin
+
+See doc/readme-qt.rst for instructions on building Lizacoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lizacoin.
+
+See doc/build-*.txt for instructions on building lizacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lizacoin.
